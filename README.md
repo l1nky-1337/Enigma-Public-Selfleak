@@ -1,2 +1,5 @@
-# Enigma-Public-Selfleak
-updated Enigma Public Selfleak | | tags: fortnite cheat, fortnite driver, fortnite offsets, valorant offsets, valorant cheat, data pointer, data ptr, ioctl, offsets, driver, valorant driver, fortnite cheats, fortnite hacks, fortnite hack, undetected, cracked, ud
+# Enigma Public Selfleak
+Updated version of Enigma Public fortnite source, ready to use.
+
+# get solution files
+join my [discord server](https://discord.gg/5Myw8xPyhS) to get driver, sln and vcxproj files to open the project.
